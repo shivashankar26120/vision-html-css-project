@@ -29,7 +29,7 @@ vision-html-css-project/
 └── README.md
 ## 📸 Screenshots
 
-| Mobile View |
+| View |
 |-------------|
 | ![Desktop](Screenshot%202025-07-27%20004635.png) | ![Mobile](Screenshot%202025-07-27%20004648.png) |
 
